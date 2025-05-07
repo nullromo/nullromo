@@ -2,6 +2,7 @@
 
 ## Neovim Plugins
 
+### Plugins I Created
 
 <a href="https://github.com/nullromo/go-up.nvim">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=go-up.nvim" />
@@ -11,8 +12,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=cash.nvim" />
 </a>
 <br />
+
+### Plugins I Maintain/Contribute To
+
 <a href="https://github.com/winston0410/mark-radar.nvim">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=winston0410&repo=mark-radar.nvim&show_owner=true" />
+</a>
+<br />
+<a href="https://github.com/tuurep/registereditor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuurep&repo=registereditor&show_owner=true" />
 </a>
 
 ## Other Projects
