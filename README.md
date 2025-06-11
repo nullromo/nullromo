@@ -22,6 +22,10 @@
 <a href="https://github.com/tuurep/registereditor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuurep&repo=registereditor&show_owner=true" />
 </a>
+<br />
+<a href="https://github.com/nullromo/minintro.nvim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=minintro.nvim&show_owner=true" />
+</a>
 
 ## Other Projects
 
