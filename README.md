@@ -11,6 +11,9 @@
 <a href="https://github.com/nullromo/cash.nvim">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=cash.nvim" />
 </a>
+<a href="https://github.com/nullromo/fishtank.nvim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=fishtank.nvim" />
+</a>
 <br />
 
 ### Plugins I Maintain/Contribute To
