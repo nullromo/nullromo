@@ -17,7 +17,7 @@
 </a>
 <br />
 <a href="https://github.com/nullromo/telescope-box-drawing.nvim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=telescope-box-drawing" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=telescope-box-drawing.nvim" />
 </a>
 <br />
 
