@@ -16,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=fishtank.nvim" />
 </a>
 <br />
+<a href="https://github.com/nullromo/telescope-box-drawing.nvim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullromo&repo=telescope-box-drawing" />
+</a>
+<br />
 
 ### Plugins I Maintain/Contribute To
 
